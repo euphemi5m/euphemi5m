@@ -1,4 +1,6 @@
-### Hello there! 🖖
+## Hello there! 🖖
+
+### Web developer at the beginning of his journey 
 
 <!--
 **euphemi5m/euphemi5m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
